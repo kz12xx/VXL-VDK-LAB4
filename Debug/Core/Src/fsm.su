@@ -1,0 +1,2 @@
+fsm.c:11:6:read_command_fsm	4	static
+fsm.c:36:6:uart_fsm	8	static
